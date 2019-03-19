@@ -10,7 +10,7 @@ import { ProductListComponent } from './products/product-list.component';
     ProductListComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule, 
   ],
   bootstrap: [AppComponent]
 })
